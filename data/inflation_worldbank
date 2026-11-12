@@ -1,3 +1,4 @@
+observation_date,FP.CPI.TOTL.ZG
 """
 get_inflation_fred.py: downloads annual CPI inflation (%) for the 18 countries
 in my research, 1996-2024, from FRED. FRED republishes the World Bank series
